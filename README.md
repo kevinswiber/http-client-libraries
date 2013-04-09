@@ -25,6 +25,11 @@ See this thread: https://groups.google.com/d/msg/api-craft/X05m6Ryy8RQ/uWZFBU_ak
         <td>Ruby</td>
         <td>https://github.com/lostisland/faraday</td>
     </tr>
+    <tr>
+        <td>Requests</td>
+	<td>Python</td>
+	<td>https://github.com/kennethreitz/requests/</td>
+    </tr>
   </tbody>
 </table>
 
