@@ -1,5 +1,9 @@
 A list of HTTP client libraries in the world today.
 
+Updates are currently being made based on feedback from the API Craft Google Group.
+
+See this thread: https://groups.google.com/d/msg/api-craft/X05m6Ryy8RQ/uWZFBU_ak28J
+
 ## HTTP Client Libraries
 
 <table>
